@@ -1,0 +1,39 @@
+[
+    {
+        "Question": "What is the first letter of the alphabet?",
+        "Answer": "A",
+        "Distractor1": "B",
+        "Distractor2": "C"
+    },
+    {
+        "Question": "What color is the sky?",
+        "Answer": "Blue",
+        "Distractor1": "Red",
+        "Distractor2": "Gold"
+    },
+    {
+        "Question": "How many months are in the year?",
+        "Answer": "12",
+        "Distractor1": "11",
+        "Distractor2": "10"
+    },
+    {
+        "Question": "Where is Waldo?",
+        "Answer": "Here",
+        "Distractor1": "Not here",
+        "Distractor2": "Not here"
+    },
+    {
+        "Question": "What type is Pikachu",
+        "Answer": "Electric",
+        "Distractor1": "Fire",
+        "Distractor2": "Dragon"
+    },
+    {
+        "Question": "What type is Darmanitan",
+        "Answer": "Fire",
+        "Distractor1": "Electric",
+        "Distractor2": "Dragon"
+    }
+    
+]

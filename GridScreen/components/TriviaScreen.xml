@@ -1,0 +1,46 @@
+<component name="TriviaScreen" extends="Scene" >
+    <script type="text/brightscript" uri="TriviaScreen.brs" />
+
+    <children>
+        <Rectangle
+            id="background"
+            width="1280"
+            height="720"
+            color="0xFFa342FF" /> 
+
+        <Label
+	        id="questionLabel"
+	        width="1020"
+			translation="[130,170]"
+	    />
+
+        <LabelList 
+            id = "optionLabelList" 
+            translation = "[ 130, 270 ]" 
+            itemSize = "[ 500, 75 ]" />
+
+
+        <Group
+            id="scoreGroup"
+            visible="false">
+            <Rectangle
+                id="background2"
+                width="1280"
+                height="720"
+                color="0x111111" /> 
+
+            <Label
+                id="scoreLabel"
+                width="500"
+                translation="[130,550]"
+            />
+            <Label
+                width="500"
+                text="Press the Replay button to play again!"
+                translation="[130,650]"
+            />
+        </Group>
+
+        
+    </children>
+</component>
