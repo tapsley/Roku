@@ -1,39 +1,134 @@
 [
     {
-        "Question": "What is the first letter of the alphabet?",
-        "Answer": "A",
-        "Distractor1": "B",
-        "Distractor2": "C"
+        "Question": "What is the largest mountain range in the world?",
+        "Answer": "The Andes",
+        "Distractor1": "The Alps",
+        "Distractor2": "The Rockies"
     },
     {
-        "Question": "What color is the sky?",
-        "Answer": "Blue",
-        "Distractor1": "Red",
-        "Distractor2": "Gold"
+        "Question": "What is the largest island in the world?",
+        "Answer": "Greenland",
+        "Distractor1": "Australia",
+        "Distractor2": "Japan"
     },
     {
-        "Question": "How many months are in the year?",
-        "Answer": "12",
-        "Distractor1": "11",
-        "Distractor2": "10"
+        "Question": "How many rings are there on the Olympic flag?",
+        "Answer": "Five",
+        "Distractor1": "Six",
+        "Distractor2": "Seven"
     },
     {
-        "Question": "Where is Waldo?",
-        "Answer": "Here",
-        "Distractor1": "Not here",
-        "Distractor2": "Not here"
+        "Question": "What term is used in golf to refer to a score 4 strokes under par?",
+        "Answer": "Condor",
+        "Distractor1": "Eagle",
+        "Distractor2": "Turkey"
     },
     {
-        "Question": "What type is Pikachu",
-        "Answer": "Electric",
-        "Distractor1": "Fire",
-        "Distractor2": "Dragon"
+        "Question": "Genuphobia is the fear of what?",
+        "Answer": "Knees",
+        "Distractor1": "Bugs",
+        "Distractor2": "Old people"
     },
     {
-        "Question": "What type is Darmanitan",
+        "Question": "What type is the Pokemon Darmanitan",
         "Answer": "Fire",
         "Distractor1": "Electric",
         "Distractor2": "Dragon"
+    },
+    {
+        "Question": "Who held the NBA Regular Season all-time scoring record before Lebron James overtook it in 2023?",
+        "Answer": "Kareem Abdul-Jabbar",
+        "Distractor1": "Kobe Bryant",
+        "Distractor2": "Michael Jordan"
+    },
+    {
+        "Question": "Which team won the Ultimate Frisbee Association Championship Title in 2025?",
+        "Answer": "Boston Glory",
+        "Distractor1": "New York Empire",
+        "Distractor2": "Minnesota Wind Chill"
+    },
+    {
+        "Question": "The saxophone is a member of which family of instruments?",
+        "Answer": "Woodwinds",
+        "Distractor1": "Brass",
+        "Distractor2": "Strings"
+    },
+    {
+        "Question": "What animal is on the cover of The Beach Boys' album 'Pet Sounds'?",
+        "Answer": "Goat",
+        "Distractor1": "Dog",
+        "Distractor2": "Cat"
+    },
+    {
+        "Question": "What team won the first Super Bowl?",
+        "Answer": "The Green Bay Packers",
+        "Distractor1": "The 49ers",
+        "Distractor2": "The Cowboys"
+    },
+    {
+        "Question": "What is traditionally the primary ingredient in hummus?",
+        "Answer": "Chickpeas",
+        "Distractor1": "Black beans",
+        "Distractor2": "Sesame seeds"
+    },
+    {
+        "Question": "Tranditionally, what sign of the zodiac is ruled by Pluto?",
+        "Answer": "Scorpio",
+        "Distractor1": "Capricorn",
+        "Distractor2": "Gemini"
+    },
+    {
+        "Question": "How many hoops are used in a game of croquet?",
+        "Answer": "Six",
+        "Distractor1": "Twelve",
+        "Distractor2": "Nine"
+    },
+    {
+        "Question": "What is the highly sought after praise from judge Paul Hollywood on the Great British Baking Show?",
+        "Answer": "The Handshake",
+        "Distractor1": "The Salute",
+        "Distractor2": "The Fist Bump"
+    },
+    {
+        "Question": "What Pokemon do you get from restoring the Dome Fossil?",
+        "Answer": "Kabuto",
+        "Distractor1": "Omanyte",
+        "Distractor2": "Aerodactyl"
+    },
+    {
+        "Question": "What video game character was originially named Jumpman?",
+        "Answer": "Mario",
+        "Distractor1": "Pac-Man",
+        "Distractor2": "Sonic the Hedgehog"
+    },
+    {
+        "Question": "What is the name of Odin's flying horse?",
+        "Answer": "Sleipnir",
+        "Distractor1": "Pegasus",
+        "Distractor2": "Shadowfax"
+    },
+    {
+        "Question": "Which of these is not a weapon in Splatoon?",
+        "Answer": "The Monado",
+        "Distractor1": "The Snipewriter",
+        "Distractor2": "The Tri-Slosher"
+    },
+    {
+        "Question": "The bandoneon is typically used in what type of music?",
+        "Answer": "Tango",
+        "Distractor1": "Polka",
+        "Distractor2": "Jazz"
+    },
+    {
+        "Question": "Which film won Best Picture at the Oscars in 2025?",
+        "Answer": "Anora",
+        "Distractor1": "The Brutalist",
+        "Distractor2": "Dune: Part 2"
+    },
+    {
+        "Question": "Which actor is the current portrayor of Super Man?",
+        "Answer": "David Corenswet",
+        "Distractor1": "Henry Cavill",
+        "Distractor2": "John Cena"
     }
-    
 ]

@@ -8,16 +8,24 @@
             height="720"
             color="0xFFa342FF" /> 
 
+        <Timer
+            id="timer"
+            repeat="false"
+            duration="1"
+        />
+
         <Label
 	        id="questionLabel"
-	        width="1020"
+	        width="900"
+            wrap="true"
 			translation="[130,170]"
+            font="font:MediumBoldSystemFont"
 	    />
 
         <LabelList 
             id = "optionLabelList" 
-            translation = "[ 130, 270 ]" 
-            itemSize = "[ 500, 75 ]" />
+            translation = "[ 130, 300 ]" 
+            itemSize = "[ 900, 75 ]" />
 
 
         <Group
@@ -31,13 +39,15 @@
 
             <Label
                 id="scoreLabel"
-                width="500"
-                translation="[130,550]"
+                width="800"
+                translation="[130,250]"
+                font="font:LargeBoldSystemFont"
             />
             <Label
                 width="500"
                 text="Press the Replay button to play again!"
-                translation="[130,650]"
+                translation="[130,350]"
+                font="font:MediumBoldSystemFont"
             />
         </Group>
 
